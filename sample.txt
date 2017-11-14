@@ -1,0 +1,1 @@
+hi there!hi there!helloAbhilash Reddyramhello ${abhi.username}I am undefinedyears oldI am 24years oldThe function is returned The sum is  is returned The sum is  is 11hello, Abhilash Reddyhello, Abhilash Reddy
